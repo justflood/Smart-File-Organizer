@@ -425,7 +425,7 @@ class App(ctk.CTk):
         messagebox.showinfo("Info", translator.get("msg_undo"))
 
     def open_feedback(self):
-        webbrowser.open("https://github.com/justflood/Smart-File-Organizer/issues")
+        webbrowser.open("https://github.com/justflood/Smart-File-Organizer/issues/new/choose")
         
     def _set_ui_busy(self):
         self.btn_start.configure(state="disabled")
