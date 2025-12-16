@@ -169,7 +169,7 @@ class ErrorDialog(ctk.CTkToplevel):
             messagebox.showinfo("Copied", "Error log copied to clipboard.")
 
     def report_issue(self):
-        webbrowser.open("https://github.com/justflood/Smart-File-Organizer/issues")
+        webbrowser.open("https://github.com/justflood/Smart-File-Organizer/issues/new/choose")
 
 
 class App(ctk.CTk):
