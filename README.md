@@ -30,7 +30,7 @@
 
 ### Method 1: Download EXE (Recommended)
 1.  Go to the [Releases Page](https://github.com/justflood/Smart-File-Organizer/releases).
-2.  Download `Smart File Organizer.exe`.
+2.  Download `SmartFileOrganizer.exe`.
 3.  Double-click to run!
 
 ### Method 2: Run from Source
