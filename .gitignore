@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Build
+build/
+dist/
+*.spec
+
+# Virtual Environment
+venv/
+env/
+
+# User Settings (Development)
+config.json
+error_log.txt
+*.log
+
+# IDE
+.idea/
+.vscode/
