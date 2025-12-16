@@ -1,3 +1,7 @@
+<img width="934" height="848" alt="Image" src="https://github.com/user-attachments/assets/063a0845-0b1f-4e7d-9452-402692463240" />
+
+---
+
 # 📂 Smart File Organizer
 
 ![Version](https://img.shields.io/badge/version-v0.1.0-blue) ![Platform](https://img.shields.io/badge/platform-Windows-win) ![License](https://img.shields.io/badge/license-MIT-green)
